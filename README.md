@@ -10,6 +10,8 @@
 - [Data Formats](#Data-Formats)
 - [Feature Store](#Feature-Store)
 - [Experiment Tracking](#Experiment-Tracking)
+- [ML Tracking](#ML-Tracking)
+- [AutoML](#AutoML)
 
 ## Orchestration
 
@@ -162,3 +164,54 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 [Feathr](https://github.com/linkedin/feathr) - Feathr is the feature store that is used in production in LinkedIn for many years and was open sourced in April 2022.
 
 ## Experiment Tracking
+
+[AimStack](https://github.com/aimhubio/aim) - The open-source tool for ML experiment comparison.
+
+[ClearML](https://github.com/allegroai/clearml) - ClearML is the only open source tool to manage all your MLOps in a unified and robust platform providing collaborative experiment management, powerful orchestration, easy-to-build data stores, and one-click model deployment. ClearML is the foundation for your data science team.
+
+[DAGsHub](https://dagshub.com/) - Leverage popular open source tools to version datasets & models, track experiments, label data, and visualize results.
+
+[neptune.ai](https://neptune.ai/) - Experiment tracking and model registry for production teams. Log, store, query, display, organize, and compare all your model metadata in a single place.
+
+## ML Tracking
+
+[DVC](https://github.com/iterative/dvc) - Open-source Version Control System for Machine Learning Projects. DVC tracks ML models and data sets. DVC is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
+
+[Evidently AI](https://github.com/evidentlyai/evidently) - We build tools to evaluate, test and monitor machine learning models, so you don't have to.
+
+[Amazon SageMaker](https://aws.amazon.com/sagemaker/model-monitor/) - Amazon SageMaker Model Monitor
+
+[Qwak](https://www.qwak.com/) - A fully managed platform that unifies ML engineering and data operations - providing agile infrastructure that enables the continuous productionization of ML models at scale.
+
+[Aporia](https://www.aporia.com/) - Create customized monitors for your machine learning models with our magically-simple monitor builder, and get alerts for issues like concept drift, model performance degradation, bias and more.
+
+[Arize AI](https://arize.com/) - Automatically discover issues, diagnose problems, and improve models with Arize’s machine learning (ML) observability platform
+
+[WhyLabs](https://whylabs.ai/) - Run AI with Certainty. Enable AI Observability to achieve healthy models, fewer incidents, and happy customers.
+
+[Qualdo](https://www.qualdo.ai/) - We are a leader in Data Quality & ML Model for enterprises adopting a multi-cloud, ML and modern data management ecosystem.
+
+[fiddler](https://www.fiddler.ai/) - Build Trust into AI - ML Monitoring. Explainability. Bias Detection. Responsible AI.
+
+[Censius](https://censius.ai/) - Monitor, explain, and optimize ML models. Proactively detect and resolve performance regression, poor data quality, and model drifts to build reliable machine learning models.
+
+[DataRobot](https://www.datarobot.com/) - AI Cloud is a new approach built for the demands, challenges and opportunities of AI today. A single system of record, accelerating the delivery of AI to production for every organization. All users collaborate in a unified environment built for continuous optimization across the entire AI lifecycle.
+
+## AutoML
+
+[Google AutoML](https://github.com/google/automl) - Train high-quality custom machine learning models with minimal effort and machine learning expertise.
+
+[MLBox](https://github.com/AxeldeRomblay/MLBox) - "MLBox is a powerful Automated Machine Learning python library. Fast reading and distributed data preprocessing/cleaning/formatting. Highly robust feature selection and leak detection. Accurate hyper-parameter optimization in high-dimensional space. State-of-the art predictive models for classification and regression (Deep Learning, Stacking, LightGBM,…). Prediction with models interpretation.
+
+[Model Search](https://github.com/google/model_search) - Model search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It aims to help researchers speed up their exploration process for finding the right model architecture for their classification problems (i.e., DNNs with different types of layers).
+
+[Amazon Personalize](https://aws.amazon.com/personalize/) - Amazon Personalize enables developers to build applications with the same machine learning (ML) technology used by Amazon.com for real-time personalized recommendations – no ML expertise required.
+
+[H2O ai](https://www.h2o.ai/products/h2o-driverless-ai/) - H2O Driverless AI empowers data scientists to work on projects faster and more efficiently by using automation to accomplish key ML tasks in just minutes or hours, not months. By delivering automatic feature engineering, model validation, tuning, selection and deployment, machine learning interpretability, bring your own recipe, time-series and automatic pipeline generation for model scoring.
+
+## Python web frameworks
+
+[FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+[Flask](https://github.com/pallets/flask) - Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to Scale Up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+[Streamlit](https://github.com/streamlit/streamlit) - A faster way to build and share data apps. Streamlit turns data scripts into shareable web apps in minutes. All in pure Python. No front‑end experience required. "Turn R&D into ROI with more models into production  At scale, faster, with increased accuracy
+[Seldon](https://github.com/SeldonIO/seldon-core) - Seldon reduces time-to-value so models can get to work faster. Scale with confidence and minimise risk through interpretable results and transparent model performance."
