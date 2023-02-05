@@ -2,6 +2,7 @@
 
 - [Orchestration](#Orchestration)
 - [Distributed Computing](#Distributed-Computing)
+- [Query Engine](#Query-Engine)
 
 ## Orchestration
 
@@ -56,3 +57,11 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 [Ray](https://github.com/ray-project/ray) - Ray is an open source project that makes it ridiculously simple to scale any compute-intensive Python workload — from deep learning to production model serving. With a rich set of libraries and integrations built on a flexible distributed execution framework, Ray makes distributed computing easy and accessible to every engineer.
 
 [SCOOP](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python) is a distributed task module allowing concurrent parallel programming on various environments, from heterogeneous grids to supercomputers.
+
+## Query Engine
+
+[Amazon Athena](https://aws.amazon.com/athena/) - Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Built on Presto, runs standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run. 
+
+[Presto](https://github.com/prestodb/presto) - Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes. Presto was designed and written from the ground up for interactive analytics and approaches the speed of commercial data warehouses while scaling to the size of organizations like Facebook.
+
+[trino](https://github.com/trinodb/trino) - Fast distributed SQL query engine for big data analytics that helps you explore your data universe
