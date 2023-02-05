@@ -16,7 +16,7 @@
 
 ## Orchestration
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Apache Airflow](https://github.com/apache/airflow) - Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Apache Airflow](https://github.com/apache/airflow) - Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
 
 <img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Apache Liminal](https://github.com/apache/incubator-liminal) - Liminal's goal is to operationalise the machine learning process, allowing data scientists to quickly transition from a successful experiment to an automated pipeline of model training, validation, deployment and inference in production.
 
