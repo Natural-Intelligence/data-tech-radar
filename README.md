@@ -213,6 +213,9 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 ## Python web frameworks
 
 [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+
 [Flask](https://github.com/pallets/flask) - Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to Scale Up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+
 [Streamlit](https://github.com/streamlit/streamlit) - A faster way to build and share data apps. Streamlit turns data scripts into shareable web apps in minutes. All in pure Python. No front‑end experience required. "Turn R&D into ROI with more models into production  At scale, faster, with increased accuracy
+
 [Seldon](https://github.com/SeldonIO/seldon-core) - Seldon reduces time-to-value so models can get to work faster. Scale with confidence and minimise risk through interpretable results and transparent model performance."
