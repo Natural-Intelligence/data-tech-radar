@@ -18,7 +18,7 @@
 
 <img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Apache Airflow](https://github.com/apache/airflow) - Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Apache Liminal](https://github.com/apache/incubator-liminal) - Liminal's goal is to operationalise the machine learning process, allowing data scientists to quickly transition from a successful experiment to an automated pipeline of model training, validation, deployment and inference in production.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Apache Liminal](https://github.com/apache/incubator-liminal) - Liminal's goal is to operationalise the machine learning process, allowing data scientists to quickly transition from a successful experiment to an automated pipeline of model training, validation, deployment and inference in production.
 
 [Apache Hop](https://github.com/apache/incubator-hop) - "The Hop Orchestration Platform, or Apache Hop (Incubating), aims to facilitate all aspects of data and metadata orchestration. Hop aims to be the future of data integration. Visual development enables developers to be more productive than they can be through
 code."
@@ -52,11 +52,11 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 ## Distributed Computing
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Apache Spark](https://github.com/apache/spark) - Apache Spark is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Apache Spark](https://github.com/apache/spark) - Apache Spark is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Amazon EMR](https://aws.amazon.com/emr/) - Amazon EMR is a platform for rapidly processing, analyzing, and applying machine learning (ML) to big data using open-source frameworks.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Amazon EMR](https://aws.amazon.com/emr/) - Amazon EMR is a platform for rapidly processing, analyzing, and applying machine learning (ML) to big data using open-source frameworks.
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[AWS Batch](https://aws.amazon.com/batch/) - AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [AWS Batch](https://aws.amazon.com/batch/) - AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS.
 
 [AWS Fargate](https://aws.amazon.com/fargate/) - AWS Fargate is a serverless, pay-as-you-go compute engine that lets you focus on building applications without managing servers. AWS Fargate is compatible with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS).
 
@@ -70,7 +70,7 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 ## Query Engine
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Amazon Athena](https://aws.amazon.com/athena/) - Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Built on Presto, runs standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run. 
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Amazon Athena](https://aws.amazon.com/athena/) - Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Built on Presto, runs standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run. 
 
 [Presto](https://github.com/prestodb/presto) - Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes. Presto was designed and written from the ground up for interactive analytics and approaches the speed of commercial data warehouses while scaling to the size of organizations like Facebook.
 
@@ -78,9 +78,9 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 ## Data Observability
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[AWS Glue](https://aws.amazon.com/glue/) - The AWS Glue Data Catalog is your persistent metadata store. It is a managed service that lets you store, annotate, and share metadata in the AWS Cloud in the same way you would in an Apache Hive metastore.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [AWS Glue](https://aws.amazon.com/glue/) - The AWS Glue Data Catalog is your persistent metadata store. It is a managed service that lets you store, annotate, and share metadata in the AWS Cloud in the same way you would in an Apache Hive metastore.
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is an Open Standard for Metadata. A Single place to Discover, Collaborate, and Get your data right.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is an Open Standard for Metadata. A Single place to Discover, Collaborate, and Get your data right.
 
 [DataHub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack - Data ecosystems are diverse — too diverse. DataHub's extensible metadata platform enables data discovery, data observability and federated governance that helps you tame this complexity."
 
@@ -102,7 +102,7 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 ## Data Lakehouse and Warehouse
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Amazon Redshift](https://aws.amazon.com/redshift/) - Analyze all of your data with the fastest and most widely used cloud data warehouse
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Amazon Redshift](https://aws.amazon.com/redshift/) - Analyze all of your data with the fastest and most widely used cloud data warehouse
 
 [Apache Hudi](https://github.com/apache/hudi) - Hudi brings transactions, record-level updates/deletes and change streams to data lakes!
 
@@ -118,7 +118,7 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 ## Real-Time Analytics Database
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Apache Druid](https://github.com/apache/druid) - Apache Druid is a high performance real-time analytics database.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Apache Druid](https://github.com/apache/druid) - Apache Druid is a high performance real-time analytics database.
 
 [Apache Pinot](https://github.com/apache/pinot) - Realtime distributed OLAP datastore, designed to answer OLAP queries with low latency
 
@@ -128,9 +128,9 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 ## Messaging
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Apache Kafka](https://github.com/apache/kafka) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Apache Kafka](https://github.com/apache/kafka) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Amazon Kinesis](https://aws.amazon.com/kinesis/) - Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
 
 [Amazon MSK](https://aws.amazon.com/msk/) - Amazon MSK - Securely stream data with a fully managed, highly available Apache Kafka service
 
@@ -140,9 +140,9 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 ## Stream Processing
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Apache Kafka Connect](https://github.com/apache/kafka/tree/trunk/connect) - Kafka Connect allows you to build connectors to integrate Apache Kafka with other apps and data systems.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Apache Kafka Connect](https://github.com/apache/kafka/tree/trunk/connect) - Kafka Connect allows you to build connectors to integrate Apache Kafka with other apps and data systems.
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Apache Flink](https://github.com/apache/flink) - Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Apache Flink](https://github.com/apache/flink) - Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
 
 [Mantis](https://github.com/netflix/mantis/) - Mantis is a platform to build an ecosystem of realtime stream processing applications. Similar to micro-services deployed in a cloud, Mantis applications (jobs) are deployed on the Mantis platform. The Mantis platform provides the APIs to manage the life cycle of jobs (like deploy, update, and terminate), manages the underlying resources by containerizing a common pool of servers.
 
@@ -150,7 +150,7 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 ## Data Formats
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Apache Parquet](https://github.com/apache/parquet-mr) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Apache Parquet](https://github.com/apache/parquet-mr) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 
 [Apache Iceberg](https://github.com/apache/iceberg) - Apache Iceberg is an open table format for huge analytic datasets. Iceberg adds tables to compute engines including Spark, Trino, PrestoDB, Flink and Hive using a high-performance table format that works just like a SQL table.
 
@@ -212,10 +212,10 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 ## Python web frameworks
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Flask](https://github.com/pallets/flask) - Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to Scale Up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Flask](https://github.com/pallets/flask) - Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to Scale Up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
-<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/>[Streamlit](https://github.com/streamlit/streamlit) - A faster way to build and share data apps. Streamlit turns data scripts into shareable web apps in minutes. All in pure Python. No front‑end experience required. "Turn R&D into ROI with more models into production  At scale, faster, with increased accuracy
+<img src="https://media.glassdoor.com/sqll/848912/natural-intelligence-squarelogo-1533461164110.png" height=15  alt=""/> [Streamlit](https://github.com/streamlit/streamlit) - A faster way to build and share data apps. Streamlit turns data scripts into shareable web apps in minutes. All in pure Python. No front‑end experience required. "Turn R&D into ROI with more models into production  At scale, faster, with increased accuracy
 
 [Seldon](https://github.com/SeldonIO/seldon-core) - Seldon reduces time-to-value so models can get to work faster. Scale with confidence and minimise risk through interpretable results and transparent model performance."
