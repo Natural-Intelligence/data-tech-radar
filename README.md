@@ -3,7 +3,8 @@
 - [Orchestration](#Orchestration)
 - [Distributed Computing](#Distributed-Computing)
 - [Query Engine](#Query-Engine)
-- [Data Lakehouse/Warehouse](#Data-Lakehouse%2FWarhouse)
+- [Data Lakehouse/Warehouse](#Data-Lakehouse-and-Warehouse)
+- [Real-Time Analytics Database](#Real-Time-Analytics-Database)
 
 ## Orchestration
 
@@ -91,4 +92,20 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 
 [Data Sentinel](https://www.data-sentinel.com/) - Data Sentinel - Effective solutions driven by machine-learning, that help you comply with data privacy regulations, manage data risk, govern data policies, and produce pristine data to help you grow your business. Satisfaction guaranteed.
 
-## Data Lakehouse/Warehouse
+## Data Lakehouse and Warehouse
+
+[Amazon Redshift](https://aws.amazon.com/redshift/) - Analyze all of your data with the fastest and most widely used cloud data warehouse
+
+[Apache Hudi](https://github.com/apache/hudi) - Hudi brings transactions, record-level updates/deletes and change streams to data lakes!
+
+[Delta Lake](https://github.com/delta-io/delta) - Delta lake is an open-source project that enables building a Lakehouse Architecture on top of existing storage systems such as S3, ADLS, GCS, and HDFS.
+
+[Firebolt](https://www.firebolt.io/) - Deliver production grade data applications & analytics with Firebolt - the cloud data warehouse of choice for modern data engineering & dev teams
+
+[dremio](https://www.dremio.com/) - Ad-hoc, mission-critical BI directly on cloud data lake storage, without copying the data into warehouses, marts, extracts or cubes. Data analysts and data scientists are empowered to discover, curate, analyze, and share datasets with a self-service mindset. Users can build interactive dashboards through native Dremio connectors in tools, such as Tableau and Power BI.
+
+[Snoflake](https://www.snowflake.com/) - Get the performance, flexibility, and near-infinite scalability to easily load, integrate, analyze, and securely share your data. Snowflake is a fully managed service that’s simple to use. Snowflake is your solution for data warehousing, data lakes, data engineering, data science, data application development, and securely sharing and consuming shared data.
+
+[upsolvr](https://www.upsolver.com/) - The quickest path from streams to analytics-ready tables. Easily and affordably transform streaming data into live tables on top of cloud object storage. Query directly on the lake or continuously output tables to external analytics systems.
+
+## Real-Time Analytics Database
