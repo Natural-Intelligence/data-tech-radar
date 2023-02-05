@@ -8,6 +8,8 @@
 - [Messaging](#Messaging)
 - [Stream Processing](#Stream-Processing)
 - [Data Formats](#Data-Formats)
+- [Feature Store](#Feature-Store)
+- [Experiment Tracking](#Experiment-Tracking)
 
 ## Orchestration
 
@@ -144,3 +146,19 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 [Debezium](https://github.com/debezium/debezium) - Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.
 
 ## Data Formats
+
+[Apache Parquet](https://github.com/apache/parquet-mr) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
+
+[Apache Iceberg](https://github.com/apache/iceberg) - Apache Iceberg is an open table format for huge analytic datasets. Iceberg adds tables to compute engines including Spark, Trino, PrestoDB, Flink and Hive using a high-performance table format that works just like a SQL table.
+
+[Zstandard](https://github.com/facebook/zstd) - Zstandard, or zstd as a short version, is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios. It's backed by a very fast entropy stage, provided by Huff0 and FSE library.
+
+## Feature Store
+
+[Feast](https://github.com/feast-dev/feast) - Serve your features in production. Feast is an open-source feature store. It is the fastest path to operationalizing analytic data for model training and online inference.
+
+[Hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks Feature Store provides an open ecosystem that connects to the largest number of data storage, data pipelines, and data science platforms. With support for any Python or Spark environment, there is no vendor lock-in.
+
+[Feathr](https://github.com/linkedin/feathr) - Feathr is the feature store that is used in production in LinkedIn for many years and was open sourced in April 2022.
+
+## Experiment Tracking
