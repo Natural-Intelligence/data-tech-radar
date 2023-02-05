@@ -3,6 +3,7 @@
 - [Orchestration](#Orchestration)
 - [Distributed Computing](#Distributed-Computing)
 - [Query Engine](#Query-Engine)
+- [Data Lakehouse/Warehouse](#Data-Lakehouse%2FWarhouse)
 
 ## Orchestration
 
@@ -65,3 +66,29 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 [Presto](https://github.com/prestodb/presto) - Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes. Presto was designed and written from the ground up for interactive analytics and approaches the speed of commercial data warehouses while scaling to the size of organizations like Facebook.
 
 [trino](https://github.com/trinodb/trino) - Fast distributed SQL query engine for big data analytics that helps you explore your data universe
+
+## Data Observability
+
+[AWS Glue](https://aws.amazon.com/glue/) - The AWS Glue Data Catalog is your persistent metadata store. It is a managed service that lets you store, annotate, and share metadata in the AWS Cloud in the same way you would in an Apache Hive metastore.
+
+[DataHub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack - Data ecosystems are diverse — too diverse. DataHub's extensible metadata platform enables data discovery, data observability and federated governance that helps you tame this complexity."
+
+[OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is an Open Standard for Metadata. A Single place to Discover, Collaborate, and Get your data right.
+
+[Apache Superset](https://github.com/apache/superset) - Apache Superset is a modern data exploration and visualization platform
+
+[Metabase](https://github.com/metabase/metabase) - The easy, open source way for everyone in your company to ask questions and learn from data.
+
+[Hue](https://github.com/cloudera/hue) - Hue is an open source SQL Assistant for Databases & Data Warehouses
+
+[Metacat](https://github.com/Netflix/metacat) - Metacat is a unified metadata exploration API service. You can explore Hive, RDS, Teradata, Redshift, S3 and Cassandra. Metacat provides you information about what data you have, where it resides and how to process it. Metadata in the end is really data about the data. So the primary purpose of Metacat is to give a place to describe the data so that we could do more useful things with it.
+
+[Apache Atlas](https://github.com/apache/atlas) - Atlas is a scalable and extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.
+
+[Monte Carlo](https://www.montecarlodata.com/") - Monte Carlo’s Data Observability platform helps your team increase in trust in data by eliminating data downtime.
+
+[Optimus](https://github.com/hi-primus/optimus) - Optimus focused on giving you the best tools for all your data processing needs. From data quality, plotting, parsing dates, URLs, email, and NLP preparation.
+
+[Data Sentinel](https://www.data-sentinel.com/) - Data Sentinel - Effective solutions driven by machine-learning, that help you comply with data privacy regulations, manage data risk, govern data policies, and produce pristine data to help you grow your business. Satisfaction guaranteed.
+
+## Data Lakehouse/Warehouse
