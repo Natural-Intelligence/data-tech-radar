@@ -3,8 +3,9 @@
 - [Orchestration](#Orchestration)
 - [Distributed Computing](#Distributed-Computing)
 - [Query Engine](#Query-Engine)
-- [Data Lakehouse/Warehouse](#Data-Lakehouse-and-Warehouse)
+- [Data Lakehouse and Warehouse](#Data-Lakehouse-and-Warehouse)
 - [Real-Time Analytics Database](#Real-Time-Analytics-Database)
+- [Messaging](#Messaging)
 
 ## Orchestration
 
@@ -109,3 +110,13 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 [upsolvr](https://www.upsolver.com/) - The quickest path from streams to analytics-ready tables. Easily and affordably transform streaming data into live tables on top of cloud object storage. Query directly on the lake or continuously output tables to external analytics systems.
 
 ## Real-Time Analytics Database
+
+[Apache Druid](https://github.com/apache/druid) - Apache Druid is a high performance real-time analytics database.
+
+[Apache Pinot](https://github.com/apache/pinot) - Realtime distributed OLAP datastore, designed to answer OLAP queries with low latency
+
+[ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is an open-source, high performance columnar OLAP database management system for real-time analytics using SQL.
+
+[Rockset](https://rockset.com/) - Build modern data applications and live dashboards in record time. The real-time
+
+## Messaging
