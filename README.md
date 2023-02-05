@@ -1,6 +1,7 @@
 # data-tech-radar
 
-[Orchestration](#Orchestration)
+- [Orchestration](#Orchestration)
+- [Distributed Computing](#Distributed-Computing)
 
 ## Orchestration
 
@@ -37,3 +38,21 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - Amazon SageMaker helps data scientists and developers to prepare, build, train, and deploy high-quality machine learning (ML) models quickly by bringing together a broad set of capabilities purpose-built for ML.
 
 [Google Cloud Vertex AI](https://cloud.google.com/vertex-ai/) - Vertex AI brings together the Google Cloud services for building ML under one, unified UI and API. In Vertex AI, you can now easily train and compare models using AutoML or custom code training and all your models are stored in one central model repository. These models can now be deployed to the same endpoints on Vertex AI.
+
+## Distributed Computing
+
+[Apache Spark](https://github.com/apache/spark) - Apache Spark is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
+
+[Amazon EMR](https://aws.amazon.com/emr/) - Amazon EMR is a platform for rapidly processing, analyzing, and applying machine learning (ML) to big data using open-source frameworks.
+
+[AWS Batch](https://aws.amazon.com/batch/) - AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS.
+
+[AWS Fargate](https://aws.amazon.com/fargate/) - AWS Fargate is a serverless, pay-as-you-go compute engine that lets you focus on building applications without managing servers. AWS Fargate is compatible with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS).
+
+[dbt](https://github.com/dbt-labs/dbt-core) - dbt (data build tool) enables analytics engineers to transform data in their warehouses by simply writing select statements. dbt handles turning these select statements into tables and views.
+
+[Fiber](https://github.com/uber/fiber/) - Fiber is a Python-based distributed computing library for modern computer clusters. Instead of programming your desktop or laptop, now you can program the whole computer cluster. It was developed to power large scale parallel scientific computation projects like POET.
+
+[Ray](https://github.com/ray-project/ray) - Ray is an open source project that makes it ridiculously simple to scale any compute-intensive Python workload — from deep learning to production model serving. With a rich set of libraries and integrations built on a flexible distributed execution framework, Ray makes distributed computing easy and accessible to every engineer.
+
+[SCOOP](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python) is a distributed task module allowing concurrent parallel programming on various environments, from heterogeneous grids to supercomputers.
