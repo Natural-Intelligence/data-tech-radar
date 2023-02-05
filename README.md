@@ -6,6 +6,8 @@
 - [Data Lakehouse and Warehouse](#Data-Lakehouse-and-Warehouse)
 - [Real-Time Analytics Database](#Real-Time-Analytics-Database)
 - [Messaging](#Messaging)
+- [Stream Processing](#Stream-Processing)
+- [Data Formats](#Data-Formats)
 
 ## Orchestration
 
@@ -120,3 +122,25 @@ Ploomber eliminates the notebook refactoring problem: data teams prototype their
 [Rockset](https://rockset.com/) - Build modern data applications and live dashboards in record time. The real-time
 
 ## Messaging
+
+[Apache Kafka](https://github.com/apache/kafka) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+
+[Amazon Kinesis](https://aws.amazon.com/kinesis/) - Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
+
+[Amazon MSK](https://aws.amazon.com/msk/) - Amazon MSK - Securely stream data with a fully managed, highly available Apache Kafka service
+
+[Apache Pulsar](https://github.com/apache/pulsar) - Apache Pulsar is a cloud-native, distributed messaging and streaming platform originally created at Yahoo! and now a top-level Apache Software Foundation project
+
+[Apache EventMesh](https://github.com/apache/incubator-eventmesh) - A dynamic cloud-native eventing infrastructure used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
+
+## Stream Processing
+
+[Apache Kafka Connect](https://github.com/apache/kafka/tree/trunk/connect) - Kafka Connect allows you to build connectors to integrate Apache Kafka with other apps and data systems.
+
+[Apache Flink](https://github.com/apache/flink) - Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
+
+[Mantis](https://github.com/netflix/mantis/) - Mantis is a platform to build an ecosystem of realtime stream processing applications. Similar to micro-services deployed in a cloud, Mantis applications (jobs) are deployed on the Mantis platform. The Mantis platform provides the APIs to manage the life cycle of jobs (like deploy, update, and terminate), manages the underlying resources by containerizing a common pool of servers.
+
+[Debezium](https://github.com/debezium/debezium) - Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.
+
+## Data Formats
